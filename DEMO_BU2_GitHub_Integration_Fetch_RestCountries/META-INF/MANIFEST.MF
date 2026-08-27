@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: DEMO_BU2_GitHub_Integration_Fetch_RestCountries
 Bundle-SymbolicName: DEMO_BU2_GitHub_Integration_Fetch_RestCountries; si
  ngleton:=true
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
